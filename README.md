@@ -16,7 +16,7 @@ Our group is designing an underwater robot that releases an alkalinity enhanceme
 <img width="745" alt="image" src="https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/5438587a-d045-460d-b33a-c67e7734d17b">
 
 
-# Current Work
+# Prototyping/Designing
 
 <img width="410" alt="image" src="https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/aad7e55f-1470-4acb-91b4-ba6c1c21463c">
 
@@ -29,5 +29,11 @@ Our group is designing an underwater robot that releases an alkalinity enhanceme
 https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/c5fad70a-d2c3-4dce-ba0f-dccb644d4457
 
 
+# Testing in UMD's Neutral Buoyancy Facility:
 
 
+
+
+![DSC02657 (1)](https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/68282b87-a9b4-4bd2-94a7-2e36412cff3b)
+![11-Fav (1)](https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/8239f005-b67a-4f15-9995-cc65be88a4e9)
+![13-Fav (1)](https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/02ff295b-90c5-49f7-8983-ac4d92fe79f4)
