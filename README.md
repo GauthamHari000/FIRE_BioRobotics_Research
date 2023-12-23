@@ -1,6 +1,7 @@
 # F.I.R.E Bio-Inspired Robotics Research Group 
 Research Members: Gautham Hari, Soham Chawathe, Ishan Khillan, Max Kauffmann, Joshua Sherry
 Faculty Advisor: Dr. Lena Johnson
+Recent Article: [https://today.umd.edu/floating-with-disaster)https://today.umd.edu/floating-with-disaster]([url](https://today.umd.edu/floating-with-disaster)https://today.umd.edu/floating-with-disaster))
 
 ## Research Problem
 ### Climate Change
@@ -29,5 +30,4 @@ https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/c5fa
 
 
 
-[https://today.umd.edu/floating-with-disaster
-]([url](https://today.umd.edu/floating-with-disaster)https://today.umd.edu/floating-with-disaster)
+
