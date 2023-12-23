@@ -1,6 +1,6 @@
 # F.I.R.E Bio-Inspired Robotics Research Group 
 Research Members: Gautham Hari, Soham Chawathe, Ishan Khillan, Max Kauffmann, Joshua Sherry
-Faculty Advisor: Dr. Lena Johnson
+Faculty Advisor: Dr. Lena Johnson 
 Recent Article: [https://today.umd.edu/floating-with-disaster](https://today.umd.edu/floating-with-disaster)
 
 ## Research Problem
