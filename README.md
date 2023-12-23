@@ -30,6 +30,7 @@ Our group is designing an underwater robot that releases an alkalinity enhanceme
 
 https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/c5fad70a-d2c3-4dce-ba0f-dccb644d4457
 
+![IMG_7306](https://github.com/GauthamHari000/FIRE_BioRobotics_Research/assets/62849063/88e77b6f-1961-40be-9ae7-1707d9f1c48e)
 
 # Testing in UMD's Neutral Buoyancy Facility:
 
